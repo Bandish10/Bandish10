@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bandish10 (Bandish Bhattacharyya)
-- 👀 I’m interested in ... App Development + Game Development
-- 🌱 I’m currently learning ... Python + C++ + Game Development
-- 💞️ I’m looking to collaborate on ... Amateur Game/ App Development projects
+- 👀 I’m interested in ... Competitive Coding + App Development + Game Development
+- 🌱 I’m currently learning ...Advanced Java + Game Development
+- 💞️ I’m looking to collaborate on ... Amateur Game/Backend Development projects
 - 📫 How to reach me ...
 
 <!---
