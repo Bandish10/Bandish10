@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bandish10 (Bandish Bhattacharyya)
 - 👀 I’m interested in ... Competitive Coding & Web Development 
-- 🌱 I’m currently learning ...Advanced Java + Next.JS
-- 💞️ I’m looking to collaborate on ... Full Stack Projects + Open Source
+- 🌱 I’m currently learning ...Advanced Java & Next.JS
+- 💞️ I’m looking to collaborate on ... Full Stack Projects & Open Source
 - 📫 How to reach me ...https://www.linkedin.com/in/bandishbhattacharyya/
 
 <!---
